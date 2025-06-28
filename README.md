@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌴 Top Scholar at the University of South Carolina<br>🖥️ Computer Science Major with a Concentration in Artificial Intelligence <br>🤖 Interested in Machine Learning and Software Engineering<br>Software Engineer at State Farm<br>🧑‍🔬 Undergraduate Research Assistant at the USC Dept. of CED Leadership, Learning Design, and Inquiry<br>🧑‍🏫 Undergraduate Research Assistant at the USC Institute for Rural Education and Development<br>
+🌴 Top Scholar at the University of South Carolina<br>🖥️ Computer Science Major with a Concentration in Artificial Intelligence <br>🤖 Interested in Machine Learning and Software Engineering<br>🚗 Software Engineer at State Farm<br>🧑‍🔬 Undergraduate Research Assistant at the USC Dept. of CED Leadership, Learning Design, and Inquiry<br>🧑‍🏫 Undergraduate Research Assistant at the USC Institute for Rural Education and Development<br>
 
 
 ## 🌐 Socials:
