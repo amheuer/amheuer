@@ -6,7 +6,3 @@ Top Scholar at the University of South Carolina<br>Computer Science Major with a
 
 .shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=amheuer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
